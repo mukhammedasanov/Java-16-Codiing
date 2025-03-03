@@ -11,5 +11,7 @@ public class Main {
         List<User> list = new ArrayList<>();
         list.add(new User("mukhammedtoichubai", "password", "210719970003", Gender.MALE));
         list.add(new User("ulankybanych", "password", "2199819970003", Gender.MALE));
+
+        System.out.println("Nurpazyl");
     }
 }
